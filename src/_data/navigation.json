@@ -2,17 +2,17 @@
   "items": [
     {
       "text": "Home",
-      "url": "/",
-      "external": false
+      "url": "https://zealous-williams-a0c18d.netlify.com/",
+      "external": true
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/hankchizljaw/hylia",
+      "text": "Discord",
+      "url": "https://discord.gg/HweS4VG",
       "external": true
     },
     {
       "text": "Twitter",
-      "url": "https://twitter.com/hankchizljaw",
+      "url": "https://twitter.com/ItzPanTTV",
       "external": true
     }
   ]

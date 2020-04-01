@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Thighs Posts
-postsHeading: Latest posts
+title: Pannys List Of Commands
+postsHeading: ' '
 archiveButtonText: See all posts
 socialImage: ''
 ---
-A Collection Of Thighs, by pan ***you welcome***.
+`a simple list of pannys commands`
